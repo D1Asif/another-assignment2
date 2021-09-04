@@ -1,0 +1,62 @@
+body{
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+}
+#logo{
+    width: 17em;
+}
+.menu-alignment{
+    margin-left: auto;
+}
+.menu-text a{
+    font-weight: 700;
+    color: #0a0e3f;
+    
+}
+header{
+    background-color: #fff9f4;
+    padding-bottom: 100px;
+    
+}
+.hero-section img{
+    width: 100%;
+}
+.font-bebas{
+    font-family: 'Bebas Neue', cursive;
+}
+.font-orange{
+    color: #fa804c;
+}
+h1{
+    font-size: 70px;
+}
+.general-button{
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #3847d0;
+    color: white;
+}
+.general-button img{
+    width: 20%;
+}
+h2{
+    font-size: 45px;
+}
+.inner-round{
+    border-radius: 5%;
+}
+.outer-round{
+    border-radius: 3%;
+}
+.product-title{
+    font-weight: 900;
+    font-size: 23px;
+}
+.product-price{
+    color: #fa804c;
+    font-weight: 900;
+}
+.casual-shoes, .formal-shoes{
+    margin-bottom: 100px;
+}
