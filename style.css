@@ -57,6 +57,40 @@ h2{
     color: #fa804c;
     font-weight: 900;
 }
-.casual-shoes, .formal-shoes{
-    margin-bottom: 100px;
+.casual-shoes, .formal-shoes, .last-section, .bonus-section{
+    margin-bottom: 110px;
+}
+.footer-image{
+    width: 100%;
+}
+.footer-icon{
+    width: 90px;
+}
+.footer-box-round{
+    border-radius: 10px;
+}
+@media (max-width: 1200px) {
+    .footer-icon{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .last-section {
+        text-align: center;
+    }
+    .footer-reverse{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+.last-section{
+    margin-top: 140px;
+}
+.slide-image{
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    color: gray;
 }
